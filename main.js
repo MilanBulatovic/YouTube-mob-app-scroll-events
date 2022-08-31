@@ -43,12 +43,3 @@ function setMargin() {
 
 window.addEventListener('scroll', checkPosition);
 window.addEventListener('load', setMargin)
-
-
-
-
-
-
-
-
-
